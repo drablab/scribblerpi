@@ -1,0 +1,89 @@
+
+h1 {
+color:#941414;
+font-size: 30px;
+}
+
+h2 {
+font-weight: normal;
+font-size: 15px;
+}
+
+h3 {
+color:#941414;
+font-size: 17px;
+}
+
+
+            /* unvisited link */
+            a:link {
+                color: #941414;
+                text-decoration:none;
+            }
+
+            /* visited link */
+            a:visited {
+                color: #941414;
+                text-decoration:none;
+            }
+
+            /* mouse over link */
+            a:hover {
+               text-decoration:underline;
+            }
+
+p.small {
+    line-height: 0.5;
+}
+p.big {
+    line-height: 2;
+}
+
+.container {	
+	margin: 0 0 20px 0;
+	width:800;
+	margin-left:auto;
+	margin-right:auto;
+	background: #fff;
+		
+	}
+
+#minitabs {
+	margin-left: auto;
+    margin-right:auto;
+    text-align:center;
+	width:800;
+	padding: 10px 0 20px 0;
+	border-bottom: 1px solid #941414;
+    border-top: 1px solid #941414;
+  
+	}
+
+#minitabs li {
+	margin-left: auto;
+    margin-right:auto;
+	padding:0;
+	display:inline;
+	padding-left:0;
+	padding-right:0;
+	list-style-type: none;
+	}
+	
+#minitabs a:link, #minitabs a:visited {
+	float: left;
+	font-size: 15px;
+	line-height: 14px;
+	font-weight: bold;
+	margin: 0 40px 4px 40px;
+	padding-bottom: 2px;
+	text-decoration: none;
+	color: #941414;
+	}
+
+/*#minitabs a.active:link, #minitabs a.active:visited, #minitabs a:hover {
+	border-bottom: 4px solid #2C5C89;
+	padding-bottom: 2px;
+	background: #fff;
+	color: #941414;
+	}*/
+
