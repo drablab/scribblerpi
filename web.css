@@ -1,17 +1,23 @@
 
 h1 {
-color:#941414;
+color:#333;
 font-size: 30px;
+margin-top:20;
+margin-bottom:2;
 }
 
 h2 {
-font-weight: normal;
+font-weight: lighter;
 font-size: 15px;
+margin-top:0;
+margin-bottom:10;
 }
 
 h3 {
-color:#941414;
-font-size: 17px;
+color:#333;
+font-size: 20px;
+margin-top:0;
+margin-bottom:2;
 }
 
 
