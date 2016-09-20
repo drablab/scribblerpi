@@ -25,6 +25,7 @@ margin-bottom:2;
             a:link {
                 color: #941414;
                 text-decoration:none;
+
             }
 
             /* visited link */
@@ -59,7 +60,7 @@ p.big {
     margin-right:auto;
     text-align:center;
 	width:800;
-	padding: 10px 0 20px 0;
+	padding: 10px 0 10px 0;
 	border-bottom: 1px solid #941414;
     border-top: 1px solid #941414;
   
@@ -76,11 +77,11 @@ p.big {
 	}
 	
 #minitabs a:link, #minitabs a:visited {
-	float: left;
+	float: center;
 	font-size: 15px;
 	line-height: 14px;
 	font-weight: bold;
-	margin: 0 40px 4px 40px;
+	margin: 0 10px 4px 10px;
 	padding-bottom: 2px;
 	text-decoration: none;
 	color: #941414;
